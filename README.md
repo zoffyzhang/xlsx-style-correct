@@ -1,4 +1,4 @@
-this package is fork from <https://github.com/luizotavioautomacao/xlsx-style-correct>, but delete  all the dependencies that cause Node.js engine version compatible problem.
+this package is forked from <https://github.com/luizotavioautomacao/xlsx-style-correct>, but delete all the dependencies that cause Node.js engine version incompatible problem when installing the package.
 
 # pacote original -> "xlsx-style": "^0.8.13"
 
