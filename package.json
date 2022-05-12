@@ -1,6 +1,6 @@
 {
   "name": "xlsx-style-correct-fixed",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "O objetivo desse pacote eh corrigir o bug da biblioteca xlsx-style",
   "main": "./xlsx",
   "scripts": {
