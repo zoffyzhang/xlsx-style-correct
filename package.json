@@ -21,15 +21,20 @@
     "spreadsheet"
   ],
   "config": {
-		"blanket": {
-			"pattern": "xlsx.js"
-		}
-	},
+    "blanket": {
+      "pattern": "xlsx.js"
+    }
+  },
   "author": "Luiz Otavio Mendes de Oliveira <luizotavioautomacao@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/luizotavioautomacao/xlsx-style-correct/issues"
   },
   "homepage": "https://github.com/luizotavioautomacao/xlsx-style-correct#readme",
-  "engines": { "node": ">=0.8" }
+  "engines": {
+    "node": ">=0.8"
+  },
+  "dependencies": {
+    "jszip": "2.4.0"
+  }
 }
